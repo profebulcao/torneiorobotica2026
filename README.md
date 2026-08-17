@@ -1,27 +1,18 @@
-# Torneio de Robótica
+# Torneio de Robótica de Macaíba - RN
 
-Página web pronta para publicação no GitHub Pages.
+Página personalizada para um torneio de robótica com identidade local.
 
-## Arquivos
-- `index.html` — estrutura da página
-- `style.css` — visual e responsividade
-- `script.js` — menu mobile
-- `assets/robotica-hero.png` — imagem principal
+A proposta visual foi inspirada em elementos associados a Macaíba, incluindo o Rio Jundiaí e a valorização da história, educação, tecnologia e inovação.
 
-## Publicar no GitHub Pages
-1. Crie um repositório no GitHub.
-2. Envie todos os arquivos mantendo a pasta `assets`.
-3. Abra **Settings → Pages**.
-4. Em **Build and deployment**, selecione **Deploy from a branch**.
-5. Escolha a branch `main` e a pasta `/ (root)`.
-6. Salve e aguarde a publicação.
+## Publicação no GitHub Pages
+1. Crie um repositório, por exemplo `torneio-robotica-macaiba`.
+2. Envie `index.html`, `style.css`, `script.js` e a pasta `assets`.
+3. Vá em **Settings → Pages**.
+4. Escolha **Deploy from a branch**.
+5. Selecione `main` e `/ (root)`.
+6. Salve.
 
-Depois o GitHub fornecerá um endereço semelhante a:
-`https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/`
+## Personalize antes de publicar
+Altere data, local, e-mail, horários, regras, organização e links de inscrição.
 
-Antes de publicar, substitua no `index.html`:
-- data do evento;
-- local;
-- período de inscrições;
-- e-mail de contato;
-- regras e horários, conforme o torneio real.
+A arte em `assets/macaiba-robotica.png` é uma ilustração temática. Para uma versão institucional, substitua-a por fotografias oficiais autorizadas de Macaíba.
